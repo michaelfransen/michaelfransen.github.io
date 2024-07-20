@@ -4,6 +4,7 @@ title = 'Michael Fransen'
 theme = 'paper'
 
 [params]
+  color = 'light'
   github="michaelfransen"
   instagram="michaelfransen"
   threads="michaelfransen"
@@ -11,3 +12,9 @@ theme = 'paper'
   rss = true
 
   name = 'Michael Fransen'
+  bio = '''
+  💻 Software Engineer
+  📍 San Francisco, California
+  '''
+  avatar = 'https://micro.blog/michaelfransen/avatar.jpg'
+  monoDarkIcon = true
