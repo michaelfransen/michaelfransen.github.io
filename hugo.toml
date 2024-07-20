@@ -2,3 +2,12 @@ baseURL = 'michaelfransen.com'
 languageCode = 'en-us'
 title = 'Michael Fransen'
 theme = 'paper'
+
+[params]
+  github="michaelfransen"
+  instagram="michaelfransen"
+  threads="michaelfransen"
+  linkedin="michaelfransen"
+  rss = true
+
+  name = 'Michael Fransen'
